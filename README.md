@@ -8,7 +8,7 @@ Cipherem represents a groundbreaking advancement in blockchain technology, focus
 
 ## Key Features
 
-### Zero-Knowledge Ethereum Virtual Machine (ZKEVM)
+### Zero-Knowledge Ethereum Virtual Machine (zkEVM)
 
 Cipherem introduces the Zero-Knowledge Ethereum Virtual Machine (ZKEVM), a transformative shift in blockchain architecture. By combining the scalability advantages of zk-rollups with Ethereum's EVM functionality, Cipherem redefines the possibilities of Layer 1 blockchain technology. This integration not only enhances privacy but also enables exponential scalability without compromising the programmability of Ethereum.
 
