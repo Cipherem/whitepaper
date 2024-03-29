@@ -14,9 +14,9 @@ Cipherem introduces the Zero-Knowledge Ethereum Virtual Machine (ZKEVM), a trans
 
 ### zkTrie Data Structure
 
-$\[
-E = \left(1 - \frac{{T_{\text{zkTrie}}}}{{T_{\text{Merkle}}}}\right) \times 100\%
-\]$
+![Equation](zkTrie%20equation.png)
+
+
 
 Innovating beyond traditional Merkle trees, Cipherem introduces zkTrie, a novel data structure designed for unparalleled efficiency and security. Utilizing zero-knowledge proofs for data verification, zkTrie ensures rapid and secure transaction processing while preserving privacy and integrity within the network.
 
